@@ -2,7 +2,7 @@
 
 
 - 🌱Cursando Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me no e-mail: kauansilva2001@outlook.com
+
 
 <div align="center">
   <a href="https://github.com/kkauans">
