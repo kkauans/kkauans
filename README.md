@@ -1,7 +1,7 @@
 ### Oi! Me chamo Kauan
 
 
-- 🌱Cursando Análise e Desenvolvimento de Sistemas
+- 📕 Cursando Análise e Desenvolvimento de Sistemas
 
 
 <div align="center">
