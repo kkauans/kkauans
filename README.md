@@ -2,6 +2,7 @@
 
 
 - 📕 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Estudando atualmente HTML, CSS e JavaScript
 
 
 <div align="center">
