@@ -2,7 +2,7 @@
 
 
 - 📕 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estudando atualmente HTML, CSS e JavaScript
+- 💻 Me especializando atualmente em banco de dados com o Microsoft SQL Server.
 
 
 <div align="center">
