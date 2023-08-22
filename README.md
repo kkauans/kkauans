@@ -2,7 +2,7 @@
 
 
 - 📕 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Me especializando atualmente em banco de dados com o Microsoft SQL Server.
+- 💻 Me especializando atualmente em C#, .NET e banco de dados com o Microsoft SQL Server.
 
 
 <div align="center">
