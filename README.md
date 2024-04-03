@@ -1,7 +1,8 @@
 ### Oi! Me chamo Kauan
 
-
-- 📕 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Atualmente atuando como desenvolvedor de softwares júnior.
+- 👾 VB6 | Microsoft SQL Server
+- 📕 Formado em Análise e Desenvolvimento de Sistemas
 - 💻 Me especializando atualmente em C#, .NET e banco de dados com o Microsoft SQL Server.
 
 
